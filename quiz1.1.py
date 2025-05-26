@@ -9,6 +9,7 @@ if seats > 8:
     print("You'll have to wait for a table.")
 else:
     print("Your table is ready.")
+    #TRY LANG ITO
 
 # number 3. pizza toppings
 prompt = "\nEnter a pizza topping that you like:"
